@@ -36,5 +36,6 @@ MIT
 
 ---
 
+> GitHub [@SayyedUmar](https://github.com/SayyedUmar) &nbsp;&middot;&nbsp;
 > GitHub [@brkckr](https://github.com/brkckr) &nbsp;&middot;&nbsp;
 > GitHub [@savassalihoglu](https://github.com/savassalihoglu)
