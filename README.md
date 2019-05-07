@@ -32,9 +32,4 @@ This project uses code from several open source repositories.
 
 ## License
 
-MIT
-
----
-
-> GitHub [@SayyedUmar](https://github.com/SayyedUmar) &nbsp;&middot;&nbsp;
 
