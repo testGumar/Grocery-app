@@ -26,9 +26,6 @@ Vitrin is a sample app shows subcategories and items of certain categories.
 
 This project uses code from several open source repositories.
 
-- [Glide] -  https://github.com/bumptech/glide
-- [Sectioned RecyclerView] -  https://github.com/afollestad/sectioned-recyclerview
-- [IncrementProductView] - https://github.com/steelkiwi/IncrementProductView
 
 ## License
 
